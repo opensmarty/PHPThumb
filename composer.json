@@ -7,8 +7,12 @@
     "require": {
         "php": ">=5.3.0"
     },
-    "homepage": "https://github.com/masterexploder/PHPThumb",
+    "homepage": "https://github.com/opensmarty/PHPThumb",
     "authors": [
+        {
+            "name": "opensmarty",
+            "email": "opensmarty@gmail.com"
+        },
         {
             "name": "Ian Selby",
             "email": "ian@gxdlabs.com"
