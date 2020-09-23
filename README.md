@@ -30,3 +30,7 @@ find documentation / help:
 ## License
 
 PHP Thumb is released under MIT license.
+
+## Upgrade Git
+https://github.com/opensmarty/PHPThumb
+
